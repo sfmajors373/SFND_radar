@@ -22,7 +22,7 @@ Mix = zeros(1,length(t)); %beat signal
 ```
 ### Range FFT
 ![FFT](./fft.png)
-![FFT Doppler](./2D_fft.png)
+![FFT Doppler](./2d_fft.png)
 
 ### 2D CFAR
 
